@@ -1,0 +1,4 @@
+src/main/resources/actual/*
+out/*
+.idea
+aoc24.iml
