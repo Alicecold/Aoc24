@@ -1,7 +1,7 @@
 import java.io.File
 import kotlin.math.abs
 
-class Day1 {
+class Day01 {
 
     fun run(){
         val input1 = File("src/main/resources/actual/day1part1.txt")
