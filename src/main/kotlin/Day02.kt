@@ -4,7 +4,7 @@ import kotlin.math.abs
 class Day02 {
     fun run(){
         val input1 = File("src/main/resources/actual/day02.txt")
-        val test = File("src/main/resources/test/day2test.txt")
+        val test = File("src/main/resources/test/day02test.txt")
         println(part1(input1))
         println(part2(input1))
     }

@@ -5,7 +5,7 @@ class Day01 {
 
     fun run(){
         val input1 = File("src/main/resources/actual/day1part1.txt")
-        val test = File("src/main/resources/test/day1part1test.txt")
+        val test = File("src/main/resources/test/day01test.txt")
         println(part1(test))
         println(part2(test))
     }
